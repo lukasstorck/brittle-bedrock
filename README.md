@@ -2,7 +2,7 @@
 A Minecraft datapack: weaken bedrock with dense TNT explosions.
 
 ## Content
-- Craft _Dense TNT_ with 9 normal TNT.
+- Craft _Dense TNT_ with 9 normal TNT.  
   ![Crafting Recipe: 9 TNT in Crafting Table = 1 Dense TNT](docs/media/crafting.png)
 - Place _Dense TNT_ on bedrock to weaken it.
 
