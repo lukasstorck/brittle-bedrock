@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Weaken bedrock with dense TNT explosions.",
+    "pack_format": 71,
+    "supported_formats": [71, 80]
+  }
+}

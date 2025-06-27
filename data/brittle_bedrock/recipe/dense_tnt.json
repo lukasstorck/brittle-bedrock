@@ -1,0 +1,43 @@
+{
+    "type": "crafting_shaped",
+    "category": "misc",
+    "key": {
+        "#": "tnt"
+    },
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "result": {
+        "count": 1,
+        "id": "tnt",
+        "components": {
+            "custom_data": {
+                "is_dense": true
+            },
+            "custom_name": {
+                "text": "Dense TNT",
+                "italic": false,
+                "bold": true,
+                "color": "#ff5555"
+            },
+            "lore": [
+                {
+                    "text": "Directly explodes when placed against bedrock!",
+                    "italic": false,
+                    "color": "#ffffff"
+                },
+                {
+                    "text": "Can damage bedrock.",
+                    "italic": false,
+                    "color": "#ffffff"
+                }
+            ],
+            "item_name": {
+                "text": "Dense TNT",
+                "italic": false
+            }
+        }
+    }
+}
